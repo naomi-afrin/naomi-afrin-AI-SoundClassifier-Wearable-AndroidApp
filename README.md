@@ -3,13 +3,18 @@
 
 ---
 
-## 🚀 Features  
-✅ **Real-time sound classification** directly on a smartwatch  
-📍 **Direction localization** for detected sounds  
-🔊 **Vibration alerts** for key sounds  
-⚡ **Edge computing:** all processing runs locally on-device, supporting lightweight inference  
-🌐 **IoT networking:** WebSocket integration with ESP32 for enhanced localization  
-🎵 Detects sounds like **Car Horn 🚗, Scream 🔊, Dog Bark 🐕, Calling Bell 🔔, and Other**  
+## ⚙️ Features  
+- **Real-time sound classification** directly on a smartwatch  
+- **Direction localization** for detected sounds  
+- **Vibration alerts** for key sounds  
+- **Edge computing:** all processing runs locally on-device, supporting lightweight inference  
+- **IoT networking:** WebSocket integration with ESP32 for enhanced localization  
+- **Detectable sounds:**  
+  1. Car Horn  
+  2. Scream  
+  3. Dog Bark  
+  4. Calling Bell  
+
 
 ---
 
